@@ -10,5 +10,11 @@
     "compZhName": "测试组件",
     "compDesc": "默认：这是一个新组件",
     "compClassName": "foo"
+  },
+  {
+    "compName": "Box",
+    "compZhName": "盒子阴影",
+    "compDesc": "这是一个带阴影的盒子",
+    "compClassName": "box"
   }
 ]
